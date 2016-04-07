@@ -1,7 +1,7 @@
 name: BpCreative
 favicon: null
-layout_spectrum: 0.43514927686192095
-typography_spectrum: 0.7481910502538085
+layout_spectrum: 0.0478
+typography_spectrum: 0.69651
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#1a45b6'
+    - '#8a838a'
+    - '#9cb2d9'
+    - '#be510c'
   brandStrength: 0.8809111365117133
   lightness: 0.9257059257943183
   saturation: 0.7027085390873253
